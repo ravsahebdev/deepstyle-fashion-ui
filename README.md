@@ -2,7 +2,7 @@
 
 A modern fashion landing page built using HTML & CSS.
 
-This project was created while practicing advanced frontend layout techniques including CSS Grid, Flexbox, positioning, and modern fashion inspired UI structuring concepts.
+This project was created as part of Assignment 4 from Cohort 3.0 by Sheryians Coding School while practicing advanced frontend layout techniques including CSS Grid, Flexbox, positioning, and modern fashion inspired UI structuring concepts.
 
 ---
 
@@ -56,6 +56,13 @@ A premium fashion inspired landing page featuring modern grid layouts, floating 
 ## 🌐 Live Demo
 
 [View Live Project](https://ravsahebdev.github.io/deepstyle-fashion-ui/)
+
+---
+
+## 🎯 Assignment Details
+
+Assignment 4 — CSS Grid Layout  
+Cohort 3.0 — Sheryians Coding School
 
 ---
 
